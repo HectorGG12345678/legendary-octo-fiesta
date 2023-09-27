@@ -3,7 +3,7 @@
     # num2 = int(input('Enter the number 3: '))
     num1 = 600
     num2 = 300
-    num3 = 400
+    num3 = 500
 
     if num1 < num2:
         if num1 < num3:
